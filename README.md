@@ -3,6 +3,8 @@
 Authors: Jun Kawasaki  
 Status: Draft \(as of 07/27, 2017\)
 
+**GIFTED ACADEMYの公式なアナウンスは全て公式アナウンスフォームにのみ行われる。**
+
 ## 最初に
 
 GIFTED ACADEMYはGIFTED AGENT株式会社が提供する就労移行支援サービスの名称である。
